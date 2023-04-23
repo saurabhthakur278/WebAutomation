@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-10T15:50:30 IST" name="Suite" finished-at="2022-10-10T15:50:44 IST" duration-ms="14616">
+    <groups>
+    </groups>
+    <test started-at="2022-10-10T15:50:30 IST" name="Test" finished-at="2022-10-10T15:50:44 IST" duration-ms="14616">
+      <class name="com.web.test.FlightBookingTest">
+        <test-method signature="openApplication()[pri:1, instance:com.web.test.FlightBookingTest@27f981c6]" started-at="2022-10-10T15:50:30 IST" name="openApplication" finished-at="2022-10-10T15:50:40 IST" duration-ms="9902" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method signature="selectFromCity()[pri:2, instance:com.web.test.FlightBookingTest@27f981c6]" started-at="2022-10-10T15:50:40 IST" name="selectFromCity" finished-at="2022-10-10T15:50:40 IST" duration-ms="264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectFromCity -->
+        <test-method signature="selectToCity()[pri:3, instance:com.web.test.FlightBookingTest@27f981c6]" started-at="2022-10-10T15:50:40 IST" name="selectToCity" finished-at="2022-10-10T15:50:42 IST" duration-ms="2263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectToCity -->
+        <test-method signature="searchFlight()[pri:4, instance:com.web.test.FlightBookingTest@27f981c6]" started-at="2022-10-10T15:50:42 IST" name="searchFlight" finished-at="2022-10-10T15:50:44 IST" duration-ms="2147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchFlight -->
+      </class> <!-- com.web.test.FlightBookingTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
